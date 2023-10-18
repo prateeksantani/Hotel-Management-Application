@@ -1,5 +1,6 @@
 
 # <h1 align="center"> Hotel Management Application </h1>
+# <h2 align="center">Created By : Prateek Santani<h2>
 ___ 
 <p align="center">
     <img alt="Java" src="https://img.shields.io/badge/Java->=8-darkblue.svg" />
@@ -191,5 +192,5 @@ Special thanks to the Spring Boot and Java communities for providing valuable to
 
 <!-- Contact -->
 ## Contact
-For questions or feedback, please contact [Amit Ashok Swain](mailto:business.amitswain@gmail.com).
+For questions or feedback, please contact [Prateek Santani](mailto:business.amitswain@gmail.com).
 
